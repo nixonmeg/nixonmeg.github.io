@@ -44,10 +44,10 @@ body {
             box-shadow: 10px 10px;
     }
 
-    .article2 {
+    .divcentre {
          
          margin-top: 20px;
-         align-content: center;
+         text-align: center;
     }
     
     .div1 {
