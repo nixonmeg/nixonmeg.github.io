@@ -1,12 +1,70 @@
-<head>
-<style>
-    body {
-        font-family: helvetica;
-        color: Blue;
-        background-image: url('./gradient85opacity.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-         }
-    </style> 
-</head>
+@font-face {
+    font-family: 'KCNeueTeeth';
+    src: url(./KCBoldRose-Inked.otf) format('opentype');
+    font-weight: normal; 
+    font-style: normal; 
+    }
+
+body {
+    color: Blue;
+    background-image: url('./img/gradient85opacity.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    .h2 {
+        font-family: 'KCNeueTeeth';
+        font-weight: 100;
+        font-size: 200px;
+        color: rgb(154, 255, 47);
+        text-align: center;
+        padding-top: 20px;
+        border: solid blue;
+        background-color: blue;
+        border-radius: 8px;
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .article1 {
+            font-family: 'raleway', sans-serif;
+            font-size: 30px;
+            border: solid blue;
+            border-radius: 8px;
+            margin-left: 80px;
+            margin-right: 80px; 
+            margin-top: 10px;
+    }
+
+    .h3 {
+        font-family: 'raleway', sans-serif;
+        margin-left: 33px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .ol1 {
+        text-align: justify;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 8px;
+      }
+
+      .h3-2 {
+        font-family: 'raleway', sans-serif;
+        margin-left: 80px;
+        margin-right: 80px; 
+        margin-top: 10px;
+        margin-bottom: 15px;
+      }
+     }
