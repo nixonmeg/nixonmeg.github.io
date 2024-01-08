@@ -45,8 +45,9 @@ body {
     }
 
     .divcentre {
-         display: block;
-         margin: 20px;
+         display:contents;
+         text-align: center;
+         margin-top: 20px;
 
     }
     
