@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'KCNeueTeeth';
-    src: url(./nixonmeg.github.io/KCBoldRose-Inked.otf) format('opentype');
+    src: url("./nixonmeg.github.io/KCBoldRose-Inked.otf") format('opentype');
     font-weight: normal; 
     font-style: normal; 
     }
 
 body {
     color: Blue;
-    background-image: url('./nixonmeg.github.io/gradient85opacity.jpg');
+    background-image: url("./nixonmeg.github.io/gradient85opacity.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

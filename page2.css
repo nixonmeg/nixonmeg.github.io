@@ -7,7 +7,7 @@
 
 body {
     color: Blue;
-    background-image: url('./nixonmeg.github.io/gradient85opacity.jpg');
+    background-image: url("./nixonmeg.github.io/gradient85opacity.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -31,7 +31,7 @@ body {
             font-family: 'raleway', sans-serif;
             font-weight: 100;
             font-size: 30px;
-            background-image: url('./nixonmeg.github.io/Untitled_Artwork\ 3.png');
+            background-image: url("./nixonmeg.github.io/Untitled_Artwork\ 3.png");
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
