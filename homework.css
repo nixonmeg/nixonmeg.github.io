@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'KCNeueTeeth';
-    src: url('./nixonmeg.github.io/KCBoldRose-Inked.otf') format('opentype');
+    src: url(./nixonmeg.github.io/KCBoldRose-Inked.otf) format('opentype');
     font-weight: normal; 
     font-style: normal; 
     }
@@ -26,6 +26,7 @@ body {
         margin-right: 80px;
         margin-top: 20px;
         margin-bottom: 20px;
+        box-shadow: 10px 10px rgb(255, 192, 252)
     }
 
     .article1 {
@@ -36,6 +37,8 @@ body {
             margin-left: 80px;
             margin-right: 80px; 
             margin-top: 10px;
+            padding-bottom: 10px;
+            box-shadow: 10px 10px
     }
 
     .h3 {
@@ -62,9 +65,11 @@ body {
 
       .h3-2 {
         font-family: 'raleway', sans-serif;
-        margin-left: 80px;
+        margin-left: 115px;
         margin-right: 80px; 
         margin-top: 10px;
         margin-bottom: 15px;
+        padding-top: 10px;
+        padding-bottom: 5px;
       }
      }
