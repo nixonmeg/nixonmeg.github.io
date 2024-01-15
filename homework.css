@@ -1,3 +1,16 @@
+@media only screen and (min-width: 375px)
+        img {
+            width: 300px
+        }
+@media only screen and (min-width: 768px)
+        img {
+            width: 768px
+        }
+@media only screen and (min-width: 1024px)
+        img {
+            width: 1025px
+        }
+        
 @font-face {
     font-family: 'KCNeueTeeth';
     src: url('../img/KCBoldRose-Inked.otf') format('opentype');
