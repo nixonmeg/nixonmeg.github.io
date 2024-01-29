@@ -1,15 +1,15 @@
 @media only screen and (min-device-width: 375px) {
-        article {
+        .article2 {
             width: 300px
         }
     } 
 @media only screen and (min-device-width: 768px) {
-        article {
+        .article2 {
             width: 768px
         }
     }
 @media only screen and (min-device-width: 1024px) {
-        article {
+        .article2 {
             width: 1024px
         }
     }           
