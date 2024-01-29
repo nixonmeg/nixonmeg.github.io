@@ -1,16 +1,18 @@
-@media only screen and (min-device-width: 375px)
+@media only screen and (min-device-width: 375px) {
         article {
             width: 300px
         }
-@media only screen and (min-device-width: 768px)
+    } 
+@media only screen and (min-device-width: 768px) {
         article {
             width: 768px
         }
-@media only screen and (min-device-width: 1024px)
+    }
+@media only screen and (min-device-width: 1024px) {
         article {
             width: 1024px
         }
-        
+    }           
 @font-face {
     font-family: 'KCNeueTeeth';
     src: url('../img/KCBoldRose-Inked.otf') format('opentype');
@@ -69,14 +71,14 @@ body {
         margin-bottom: 15px;
     }
 
-    img {
+    .img {
         display: flex;
         margin-left: auto;
         margin-right: auto;
         border-radius: 8px;
       }
 
-      .h3-2 {
+    .h3-2 {
         font-family: 'raleway', sans-serif;
         margin-left: 115px;
         margin-right: 80px; 
