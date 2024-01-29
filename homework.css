@@ -1,14 +1,14 @@
-@media only screen and (min-width: 375px)
-        img {
+@media only screen and (min-device-width: 375px)
+        article {
             width: 300px
         }
-@media only screen and (min-width: 768px)
-        img {
+@media only screen and (min-device-width: 768px)
+        article {
             width: 768px
         }
-@media only screen and (min-width: 1024px)
-        img {
-            width: 1025px
+@media only screen and (min-device-width: 1024px)
+        article {
+            width: 1024px
         }
         
 @font-face {
