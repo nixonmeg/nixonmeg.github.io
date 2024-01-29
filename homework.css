@@ -10,7 +10,7 @@
     }
 @media only screen and (min-device-width: 1024px) {
         img {
-            width: 1024px
+            width: 900px
         }
     }           
 @font-face {
@@ -73,6 +73,7 @@ body {
 
     img {
         display: flex;
+        width: 900px;
         margin-left: auto;
         margin-right: auto;
         border-radius: 8px;
